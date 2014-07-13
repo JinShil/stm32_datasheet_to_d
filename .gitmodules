@@ -1,0 +1,3 @@
+[submodule "dwt"]
+	path = dwt
+	url = https://github.com/d-widget-toolkit/dwt.git
